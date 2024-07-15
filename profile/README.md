@@ -14,4 +14,6 @@ https://github.com/user-attachments/assets/ed5d5542-9fed-4f56-ab61-7de1f8c66720
 
 ## 수상했어요
 저희 팀은 최우수상(2등)을 수상했어요!
-| 사-진!
+<br>
+![KakaoTalk_20240715_113725802_13](https://github.com/user-attachments/assets/68727063-26f9-495c-8581-0beff2b7100d)
+
